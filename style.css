@@ -1,0 +1,30 @@
+ @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+
+
+  body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+    background-color: hsl(217, 54%, 11%) !important;
+    font-family: 'Outfit', sans-serif !important;
+  }
+
+.card{
+    background-color:gold!important;
+    border-radius: 1em !important;
+    
+}
+  
+
+.card-body{
+      background-color:whitesmoke;
+      border-radius: 40px 50px 15px 15px; 
+  
+}
+
+.card-img-top {
+    width: 100% !important;
+    height: 20vw;
+     object-fit: cover;
+}
